@@ -43,10 +43,11 @@
 	color:#fff;
 	padding-top: 5%;
 	padding-bottom: 12%;
+	clip-path: polygon(100% 0%,100% 77%,50% 100%,0 75%,0 0);
 	/*clip-path: polygon(100% 0%,100% 77%,50% 100%,0 75%,0 0);*/
-	clip-path: polygon(5% 5%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%);
-	
-	
+/*	clip-path: polygon(5% 5%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%);*/
+
+
 }
 .play{
 	width: 45px;
@@ -114,7 +115,7 @@
 	background-color:#f8f9fa;
 	padding-top: 5%;
 	padding-bottom: 12%;
-	
+
 }
 .text-center{
 	padding-top: 25px;
@@ -126,7 +127,7 @@
 }
 #about-us ul li{
 	margin: 10px 0;
-	 
+
 }
 #about-us ul{
 	margin-left: 20px;
